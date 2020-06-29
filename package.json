@@ -1,0 +1,25 @@
+{
+  "name": "@object-prototype/equals",
+  "version": "1.0.0",
+  "description": "Deeply compares two objects and returns true if they are equal at all levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapPayne/-object-prototype-equals.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "object",
+    "equals",
+    "prototype"
+  ],
+  "author": "RapPayne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rapPayne/-object-prototype-equals/issues"
+  },
+  "homepage": "https://github.com/rapPayne/-object-prototype-equals#readme"
+}
